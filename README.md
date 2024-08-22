@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rdgspc&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=b13583&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="43.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdgspc&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
@@ -28,5 +24,3 @@
 ![api.net](https://img.shields.io/badge/-aspnetﾠapi's-0D1117?style=for-the-badge&logo=.net&labelColor=4B0082)&nbsp;
 ![azure](https://img.shields.io/badge/-MicrosoftﾠAzure-0D1117?style=for-the-badge&logo=microsoftAzure&labelColor=1E90FF&textColor=0D1117)&nbsp;
 ![mongodb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
